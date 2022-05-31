@@ -223,7 +223,7 @@
                                 <img src="{{ asset('assets/images/poster home.png') }}" alt="poster home" style="width: 100%;height: 100%;">
                             </div>
                             <div class="card-footer">
-                                * Lomba akan dibatalkan jika peserta tidak memenuhi target!
+                                <span class="text-danger">*</span> Lomba akan dibatalkan jika peserta tidak memenuhi target!
                             </div>
                         </div>
                     </div>
