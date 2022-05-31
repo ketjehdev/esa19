@@ -222,6 +222,9 @@
                             <div class="card-body">
                                 <img src="{{ asset('assets/images/poster home.png') }}" alt="poster home" style="width: 100%;height: 100%;">
                             </div>
+                            <div class="card-footer">
+                                * Lomba akan dibatalkan jika peserta tidak memenuhi target!
+                            </div>
                         </div>
                     </div>
                     <div class="col-md-6 col-lg-4">
@@ -273,7 +276,7 @@
                                         </div>
                                         <div class="ml-3 mt-2">
                                             <h5 class="text-dark font-weight-medium mb-2">Pengumuman Pemenang</h5>
-                                            <p class="font-14 mb-2 text-muted">Tanggal : 21 Juni 2022 </p>
+                                            <p class="font-14 mb-2 text-muted">Tanggal : 19 Juni 2022 </p>
                                         </div>
                                     </div>
                                 </div>
